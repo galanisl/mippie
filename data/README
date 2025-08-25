@@ -1,0 +1,53 @@
+> Mouse protein coding genes were extracted from https://www.ensembl.org/biomart on 15.05.2018 using the following filters:
+
+Ensembl Genes 92
+
+Mouse genes: GRCm38.p6
+Attributes: MGI symbol
+Gene type: protein_coding
+
+mt- and MT- were removed manually from mitochondrial gene IDs.
+
+> Expression data from:
+
+An RNA-Seq atlas of gene expression in mouse and rat normal tissues
+
+
+
+> GO Slim is the generic GO Slim from:
+
+http://www.geneontology.org/page/go-subset-guide
+
+Then the OBO file was read into R with:
+
+mgi <- get_ontology("data/goslim_generic.obo",
+                    propagate_relationships =
+                      get_relation_names("data/goslim_generic.obo"),
+                    extract_tags = "everything")
+
+> GO annotations per Gene from the MGI:
+
+http://www.informatics.jax.org/gotools/data/input/MGIgenes_by_GOid.txt
+
+
+> MeSH tree numbers from:
+	ftp://nlmpubs.nlm.nih.gov/online/mesh/MESH_FILES/meshtrees/
+
+> Associations of human and mouse genes with Disease Ontology (DO) diseases
+	http://www.informatics.jax.org/humanDisease.shtml
+	http://www.informatics.jax.org/downloads/reports/MGI_DO.rpt
+
+
+
+
+
+
+
+
+LEGACY...
+Downloaded file http://www.informatics.jax.org/gotools/data/input/mgi_go_slim.go
+and parsed it into the OBO ontology format with perl package GO::Parser:
+
+sudo apt install libgo-perl
+go2fmt -w obo_text mgi_go_slim.go > mgi_go_slim.obo
+

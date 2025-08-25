@@ -1,0 +1,28 @@
+1. Dump HIPPIE database schema:
+
+mysqldump -u hippie -p --no-data mschaefer_hippie_v2 > hippie_schema.sql
+
+2. Add the protein2mgi table to the schema (copy-paste of protein2entrez).
+
+3. Create the mippie database:
+
+mysqladmin create galanisl_mippie
+
+4. Load the dump into the newly created database:
+
+mysql galanisl_mippie < hippie_schema.sql
+
+5. Access the MySQL prompt:
+
+mysql
+
+6. Create a user for the mippie database:
+
+CREATE USER 'mippie'@'localhost' IDENTIFIED BY 'password';
+
+7. Grant privileges to the newly created user:
+
+GRANT SELECT ON `galanisl_mippie`.* TO 'mippie'@'localhost';
+GRANT SELECT ON `jfontain_Medline`.* TO 'mippie'@'localhost';
+
+

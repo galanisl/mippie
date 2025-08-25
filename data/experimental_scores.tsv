@@ -1,0 +1,200 @@
+technique	score	PSI
+psi-mi:MI:0254(genetic interference)	0	MI:0254
+psi-mi:MI:0686(unspecified method)	0	MI:0686
+-	0	MI:
+psi-mi:MI:0087(predictive text mining)	0	MI:0087
+psi-mi:MI:0889(acetylase assay)	1	MI:0889
+psi-mi:MI:1038(silicon nanowire field-effect transistor)	1	MI:1038
+psi-mi:MI:0990(cleavage assay)	1	MI:0990
+psi-mi:MI:0969(bio-layer interferometry)	1	MI:0969
+psi-mi:MI:0968(biosensor)	1	MI:0968
+psi-mi:MI:1016(fluorescence recovery after photobleaching)	1	MI:1016
+psi-mi:MI:0256(rna interference)	1	MI:0256
+psi-mi:MI:1017(rna immunoprecipitation)	1	MI:1017
+psi-mi:MI:0257(antisense rna)	1	MI:0257
+psi-mi:MI:0045(experimental interaction detection)	1	MI:0045
+psi-mi:MI:0415(enzymatic study)	1	MI:0415
+psi-mi:MI:0428(imaging technique)	1	MI:0428
+psi-mi:MI:0663(confocal microscopy)	1	MI:0663
+psi-mi:MI:0364(inferred by curator)	1	MI:0364
+psi-mi:MI:0416(fluorescence microscopy)	1	MI:0416
+psi-mi:MI:0892(solid phase assay)	1	MI:0892
+psi-mi:MI:0401(biochemical)	1	MI:0401
+psi-mi:MI:0054(fluorescence-activated cell sorting)	1	MI:0054
+psi-mi:MI:0051(fluorescence technology)	1	MI:0051
+psi-mi:MI:0091(chromatography technology)	1	MI:0091
+psi-mi:MI:0013(biophysical)	1	MI:0013
+psi-mi:MI:0426(light microscopy)	1	MI:0426
+psi-mi:MI:0227(reverse phase chromatography)	1	MI:0227
+psi-mi:MI:0054(fluorescence_activated_cell_sorting)	1	MI:0054
+psi-mi:MI:0225(chromatin immunoprecipitation array)	2	MI:0225
+psi-mi:MI:0859(intermolecular force)	2	MI:0859
+psi-mi:MI:1022(field flow fractionation)	2	MI:1022
+psi-mi:MI:0024(confirmational text mining)	2	MI:0024
+psi-mi:MI:0402(chromatin immunoprecipitation assay)	2	MI:0402
+psi-mi:MI:0071(molecular sieving)	2	MI:0071
+psi-mi:MI:0029(cosedimentation through density gradient)	2	MI:0029
+psi-mi:MI:0028(cosedimentation in solution)	2	MI:0028
+psi-mi:MI:0027(cosedimentation)	2	MI:0027
+psi-mi:MI:0412(electrophoretic mobility supershift assay)	2	MI:0412
+psi-mi:MI:0413(electrophoretic mobility shift assay)	2	MI:0413
+psi-mi:MI:0402(chromatin immunoprecipitation assays)	2	MI:0402
+psi-mi:MI:0096(pull down)	2.5	MI:0096
+psi-mi:MI:0096(pull_down)	2.5	MI:0096
+psi-mi:MI:2222(inference by socio-affinity scoring)	3	MI:2222
+psi-mi:MI:0097(reverse ras recruitment system)	3	MI:0097
+psi-mi:MI:0606(DNase I footprinting)	3	MI:0606
+psi-mi:MI:0605(enzymatic footprinting)	3	MI:0605
+psi-mi:MI:0982(electrophoretic mobility-based method)	3	MI:0982
+psi-mi:MI:0949(gdp/gtp exchange assay)	3	MI:0949
+psi-mi:MI:0203(dephosphorylation reaction)	3	MI:0203
+psi-mi:MI:0821(molecular weight estimation by autoradiography)	3	MI:0821
+psi-mi:MI:0074(mutation analysis)	3	MI:0074
+psi-mi:MI:0276(blue native page)	3	MI:0276
+psi-mi:MI:0226(ion exchange chromatography)	3	MI:0226
+psi-mi:MI:0404(comigration in non denaturing gel electrophoresis)	3	MI:0404
+psi-mi:MI:0417(footprinting)	3	MI:0417
+psi-mi:MI:0807(comigration in gel electrophoresis)	3	MI:0807
+psi-mi:MI:0808(comigration in sds page)	3	MI:0808
+psi-mi:MI:0008(array technology)	3	MI:0008
+psi-mi:MI:0814(protease accessibility laddering)	4	MI:0814
+psi-mi:MI:0947(bead aggregation assay)	4	MI:0947
+psi-mi:MI:0397(two hybrid array)	5	MI:0397
+psi-mi:MI:1203(split luciferase complementation)	5	MI:1203
+psi-mi:MI:0727(lexa b52 complementation)	5	MI:0727
+psi-mi:MI:0443(ubiquitin binding)	5	MI:0443
+psi-mi:MI:0430(nucleic acid uv cross-linking assay)	5	MI:0430
+psi-mi:MI:0944(mass spectrometry study of hydrogen/deuterium exchange)	5	MI:0944
+psi-mi:MI:1037(Split renilla luciferase complementation)	5	MI:1037
+psi-mi:MI:0943(detection by mass spectrometry)	5	MI:0943
+psi-mi:MI:2189(avexis)	5	MI:2189
+psi-mi:MI:1246(ion mobility mass spectrometry of complexes)	5	MI:1246
+psi-mi:MI:0095(proteinchip on a surface-enhanced laser desorption/ionization)	5	MI:0095
+psi-mi:MI:0655(lambda repressor two hybrid)	5	MI:0655
+psi-mi:MI:0705(anti tag western blot)	5	MI:0705
+psi-mi:MI:1024(scanning electron microscopy)	5	MI:1024
+psi-mi:MI:1086(equilibrium dialysis)	5	MI:1086
+psi-mi:MI:1204(split firefly luciferase complementation)	5	MI:1204
+psi-mi:MI:0963(interactome parallel affinity capture)	5	MI:0963
+psi-mi:MI:0095(proteinchip(r) on a surface-enhanced laser desorption/ionization)	5	MI:0095
+psi-mi:MI:1087(monoclonal antibody blockade)	5	MI:1087
+psi-mi:MI:0695(sandwich immunoassay)	5	MI:0695
+psi-mi:MI:0004(affinity chromatography technology)	5	MI:0004
+psi-mi:MI:0018(two hybrid)	5	MI:0018
+psi-mi:MI:0007(anti tag coimmunoprecipitation)	5	MI:0007
+psi-mi:MI:0006(anti bait coimmunoprecipitation)	5	MI:0006
+psi-mi:MI:0676(tandem affinity purification)	5	MI:0676
+psi-mi:MI:0019(coimmunoprecipitation)	5	MI:0019
+psi-mi:MI:0090(protein complementation assay)	5	MI:0090
+psi-mi:MI:0047(far western blotting)	5	MI:0047
+psi-mi:MI:0411(enzyme linked immunosorbent assay)	5	MI:0411
+psi-mi:MI:0030(cross-linking study)	5	MI:0030
+psi-mi:MI:0399(two hybrid fragment pooling approach)	5	MI:0399
+psi-mi:MI:0020(transmission electron microscopy)	5	MI:0020
+psi-mi:MI:0678(antibody array)	5	MI:0678
+psi-mi:MI:0112(ubiquitin reconstruction)	5	MI:0112
+psi-mi:MI:0089(protein array)	5	MI:0089
+psi-mi:MI:0405(competition binding)	5	MI:0405
+psi-mi:MI:0400(affinity technology)	5	MI:0400
+psi-mi:MI:0081(peptide array)	5	MI:0081
+psi-mi:MI:0069(mass spectrometry studies of complexes)	5	MI:0069
+psi-mi:MI:0059(gst pull down)	5	MI:0059
+psi-mi:MI:0049(filter binding)	5	MI:0049
+psi-mi:MI:0040(electron microscopy)	5	MI:0040
+psi-mi:MI:0090(protein complementation assay)|psi-mi:MI:0228(cytoplasmic complementation assay)|psi-mi:MI:0230(membrane bound complementation assay)	5	MI:0090
+psi-mi:MI:0031(protein cross-linking with a bifunctional reagent)	5	MI:0031
+psi-mi:MI:0588(three hybrid)	5	MI:0588
+psi-mi:MI:0011(beta lactamase complementation)	5	MI:0011
+psi-mi:MI:0369(lex-a dimerization assay)	5	MI:0369
+psi-mi:MI:0010(beta galactosidase complementation)	5	MI:0010
+psi-mi:MI:0728(gal4 vp16 complementation)	5	MI:0728
+psi-mi:MI:0370(tox-r dimerization assay)	5	MI:0370
+psi-mi:MI:0953(polymerization)	5	MI:0953
+psi-mi:MI:0437(protein three hybrid)	5	MI:0437
+psi-mi:MI:0232(transcriptional complementation assay)	5	MI:0232
+psi-mi:MI:0061(his pull down)	5	MI:0061
+psi-mi:MI:0726(reverse two hybrid)	5	MI:0726
+psi-mi:MI:0115(yeast display)	5	MI:0115
+psi-mi:MI:0007(anti_tag_coimmunoprecipitation)	5	MI:0007
+psi-mi:MI:1112(two hybrid prey pooling approach)	6	MI:1112
+psi-mi:MI:2215(barcode fusion genetics two hybrid)	6	MI:2215
+psi-mi:MI:1113(two hybrid bait and prey pooling approach)	6	MI:1113
+psi-mi:MI:0398(two hybrid pooling approach)	6	MI:0398
+psi-mi:MI:0729(luminescence based mammalian interactome mapping)	6	MI:0729
+psi-mi:MI:0034(display technology)	6	MI:0034
+psi-mi:MI:0858(immunodepleted coimmunoprecipitation)	6	MI:0858
+psi-mi:MI:0512(zymography)	6	MI:0512
+psi-mi:MI:0928(filter trap assay)	6	MI:0928
+psi-mi:MI:0084(phage display)	6	MI:0084
+psi-mi:MI:0809(bimolecular fluorescence complementation)	6	MI:0809
+psi-mi:MI:0231(mammalian protein protein interaction trap)	6	MI:0231
+psi-mi:MI:0055(fluorescent resonance energy transfer)	6	MI:0055
+psi-mi:MI:0012(bioluminescence resonance energy transfer)	6	MI:0012
+psi-mi:MI:0066(lambda phage display)	6	MI:0066
+psi-mi:MI:0048(filamentous phage display)	6	MI:0048
+psi-mi:MI:0108(t7 phage display)	6	MI:0108
+psi-mi:MI:0111(dihydrofolate reductase reconstruction)	6	MI:0111
+psi-mi:MI:1356(validated two hybrid)	7	MI:1356
+psi-mi:MI:1247(microscale thermophoresis)	7	MI:1247
+psi-mi:MI:0813(proximity enzyme linked immunosorbent assay)	7	MI:0813
+psi-mi:MI:0425(kinase scintillation proximity assay)	7	MI:0425
+psi-mi:MI:0510(homogeneous time resolved fluorescence)	7	MI:0510
+psi-mi:MI:1313(bioid)	7.5	MI:1313
+psi-mi:MI:1314(proximity-dependent biotin identification)	7.5	MI:1314
+psi-mi:MI:1313(proximity labelling technology)	7.5	MI:1313
+psi-mi:MI:0813(proximity ligation assay)	7.5	MI:0813
+psi-mi:MI:0841(phosphotransferase assay)	7.5	MI:0841
+psi-mi:MI:1010(neddylase assay)	7.5	MI:1010
+psi-mi:MI:0997(ubiquitinase assay)	7.5	MI:0997
+psi-mi:MI:0905(amplified luminescent proximity homogeneous assay)	7.5	MI:0905
+psi-mi:MI:1000(hydroxylase assay)	7.5	MI:1000
+psi-mi:MI:1005(adp ribosylase assay)	7.5	MI:1005
+psi-mi:MI:0880(atpase assay)	7.5	MI:0880
+psi-mi:MI:0991(lipoprotein cleavage assay)	7.5	MI:0991
+psi-mi:MI:0998(deubiquitinase assay)	7.5	MI:0998
+psi-mi:MI:1019(protein phosphatase assay)	7.5	MI:1019
+psi-mi:MI:1138(decarboxylation assay)	7.5	MI:1138
+psi-mi:MI:1034(nuclease assay)	7.5	MI:1034
+psi-mi:MI:1352(uracil interference assay)	7.5	MI:1352
+psi-mi:MI:1147(ampylation assay)	7.5	MI:1147
+psi-mi:MI:0979(oxidoreductase assay)	7.5	MI:0979
+psi-mi:MI:0514(in gel phosphatase assay)	7.5	MI:0514
+psi-mi:MI:0239(biotin tag)	7.5	MI:0239
+psi-mi:MI:1008(sumoylase assay)	7.5	MI:1008
+psi-mi:MI:0424(protein kinase assay)	7.5	MI:0424
+psi-mi:MI:0017(classical fluorescence spectroscopy)	7.5	MI:0017
+psi-mi:MI:0435(protease assay)	7.5	MI:0435
+psi-mi:MI:0406(deacetylase assay)	7.5	MI:0406
+psi-mi:MI:0434(phosphatase assay)	7.5	MI:0434
+psi-mi:MI:0099(scintillation proximity assay)	7.5	MI:0099
+psi-mi:MI:0440(saturation binding)	7.5	MI:0440
+psi-mi:MI:0515(methyltransferase assay)	7.5	MI:0515
+psi-mi:MI:0870(demethylase assay)	7.5	MI:0870
+psi-mi:MI:0423(in-gel kinase assay)	7.5	MI:0423
+psi-mi:MI:0419(gtpase assay)	7.5	MI:0419
+psi-mi:MI:0920(ribonuclease assay)	7.5	MI:0920
+psi-mi:MI:0420(kinase homogeneous time resolved fluorescence)	7.5	MI:0420
+psi-mi:MI:0516(methyltransferase radiometric assay)	7.5	MI:0516
+psi-mi:MI:1235(thermal shift binding)	8	MI:1235
+psi-mi:MI:0964(infrared spectroscopy)	8	MI:0964
+psi-mi:MI:0104(static light scattering)	9	MI:0104
+psi-mi:MI:0894(electron diffraction)	9	MI:0894
+psi-mi:MI:0888(small angle neutron scattering)	9	MI:0888
+psi-mi:MI:0826(x ray scattering)	9	MI:0826
+psi-mi:MI:0038(dynamic light scattering)	9	MI:0038
+psi-mi:MI:0410(electron tomography)	9	MI:0410
+psi-mi:MI:0872(atomic force microscopy)	9	MI:0872
+psi-mi:MI:0016(circular dichroism)	9	MI:0016
+psi-mi:MI:0042(electron paramagnetic resonance)	9	MI:0042
+psi-mi:MI:0825(x-ray fiber diffraction)	9	MI:0825
+psi-mi:MI:0921(surface plasmon resonance array)	10	MI:0921
+psi-mi:MI:1104(solid state nmr)	10	MI:1104
+psi-mi:MI:1311(differential scanning calorimetry)	10	MI:1311
+psi-mi:MI:1103(solution state nmr)	10	MI:1103
+psi-mi:MI:0065(isothermal titration calorimetry)	10	MI:0065
+psi-mi:MI:0114(x-ray crystallography)	10	MI:0114
+psi-mi:MI:0077(nuclear magnetic resonance)	10	MI:0077
+psi-mi:MI:0053(fluorescence polarization spectroscopy)	10	MI:0053
+psi-mi:MI:0107(surface plasmon resonance)	10	MI:0107
+psi-mi:MI:0067(light scattering)	10	MI:0067
+psi-mi:MI:0052(fluorescence correlation spectroscopy)	10	MI:0052
